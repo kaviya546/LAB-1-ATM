@@ -14,7 +14,8 @@ to withdraw money,deposit.
 <img width="969" height="763" alt="image" src="https://github.com/user-attachments/assets/3712170d-f3bf-4d7a-b10e-a4d3ffd13efb" />
 
 ### SEQUENCE DIAGRAM :
-<img width="457" height="617" alt="image" src="https://github.com/user-attachments/assets/51ebcb9e-4b27-4a2c-ba30-f2a6b8c2b77f" 
+<img width="550" height="881" alt="image" src="https://github.com/user-attachments/assets/eec101ec-296c-449a-8c0f-5e75b7701dd6" />
+
   
 ### ACTIVITY DIAGRAM:
 <img width="387" height="446" alt="image" src="https://github.com/user-attachments/assets/2eb7ad6e-2d5a-459b-9e12-10c5c339ae9c" />
